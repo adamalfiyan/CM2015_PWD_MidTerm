@@ -1,0 +1,161 @@
+Season,Rk,Squad,MP,W,D,L,GF,GA,GD,Pts,Pts/MP,Attendance,Top Team Scorer,Goalkeeper,Notes
+2023-2024,1,Manchester City,38,28,7,3,96,34,+62,91,2.39,"53,012",Erling Haaland - 27,Ederson,→ Champions League via league finish
+2023-2024,2,Arsenal,38,28,5,5,91,29,+62,89,2.34,"60,236",Bukayo Saka - 16,David Raya,→ Champions League via league finish
+2023-2024,3,Liverpool,38,24,10,4,86,41,+45,82,2.16,"55,979",Mohamed Salah - 18,Alisson,→ Champions League via league finish
+2023-2024,4,Aston Villa,38,20,8,10,76,61,+15,68,1.79,"41,858",Ollie Watkins - 19,Emiliano Martínez,→ Champions League via league finish
+2023-2024,5,Tottenham,38,20,6,12,74,61,+13,66,1.74,"61,482",Son Heung-min - 17,Guglielmo Vicario,→ Europa League via league finish
+2023-2024,6,Chelsea,38,18,9,11,77,63,+14,63,1.66,"39,524",Cole Palmer - 22,Đorđe Petrović,→ Europa Conference League via league finish
+2023-2024,7,Newcastle Utd,38,18,6,14,85,62,+23,60,1.58,"52,125",Alexander Isak - 21,Martin Dúbravka,
+2023-2024,8,Manchester Utd,38,18,6,14,57,58,-1,60,1.58,"73,533","Rasmus Højlund, Bruno Fernandes - 10",André Onana,→ Europa League via cup win
+2023-2024,9,West Ham,38,14,10,14,60,74,-14,52,1.37,"62,567",Jarrod Bowen - 16,Alphonse Areola,
+2023-2024,10,Crystal Palace,38,13,10,15,57,58,-1,49,1.29,"24,932",Jean-Philippe Mateta - 16,Sam Johnstone,
+2023-2024,11,Brighton,38,12,12,14,55,62,-7,48,1.26,"32,638",João Pedro - 9,Bart Verbruggen,
+2023-2024,12,Bournemouth,38,13,9,16,54,67,-13,48,1.26,"11,103",Dominic Solanke - 19,Neto,
+2023-2024,13,Fulham,38,13,8,17,55,61,-6,47,1.24,"24,302",Rodrigo Muniz - 9,Bernd Leno,
+2023-2024,14,Wolves,38,13,7,18,50,65,-15,46,1.21,"31,029","Hwang Hee-chan, Matheus Cunha - 12",José Sá,
+2023-2024,15,Everton,38,13,9,16,40,51,-11,42,1.11,"39,042","Abdoulaye Doucouré, Dominic Calvert-Lewin - 7",Jordan Pickford,6-point deduction 1
+2023-2024,16,Brentford,38,10,9,19,56,65,-9,39,1.03,"17,082",Yoane Wissa - 12,Mark Flekken,
+2023-2024,17,Nott'ham Forest,38,9,9,20,49,67,-18,32,0.84,"29,386",Chris Wood - 14,Matt Turner,4-point deduction 2
+2023-2024,18,Luton Town,38,6,8,24,52,85,-33,26,0.68,"11,240",Carlton Morris - 11,Thomas Kaminski,Relegated
+2023-2024,19,Burnley,38,5,9,24,41,78,-37,24,0.63,"21,184",Jacob Bruun Larsen - 6,James Trafford,Relegated
+2023-2024,20,Sheffield Utd,38,3,7,28,35,104,-69,16,0.42,"30,011","Oliver McBurnie, Ben Brereton - 6",Wes Foderingham,Relegated
+2022-2023,1,Manchester City,38,28,5,5,94,33,+61,89,2.34,"53,249",Erling Haaland - 36,Ederson,→ Champions League via league finish
+2022-2023,2,Arsenal,38,26,6,6,88,43,+45,84,2.21,"60,191","Martin Ødegaard, Gabriel Martinelli - 15",Aaron Ramsdale,→ Champions League via league finish
+2022-2023,3,Manchester Utd,38,23,6,9,58,43,+15,75,1.97,"73,671",Marcus Rashford - 17,David de Gea,→ Champions League via league finish
+2022-2023,4,Newcastle Utd,38,19,14,5,68,33,+35,71,1.87,"52,127",Callum Wilson - 18,Nick Pope,→ Champions League via league finish
+2022-2023,5,Liverpool,38,19,10,9,75,47,+28,67,1.76,"53,163",Mohamed Salah - 19,Alisson,→ Europa League via league finish
+2022-2023,6,Brighton,38,18,8,12,72,53,+19,62,1.63,"31,477",Alexis Mac Allister - 10,Robert Sánchez,→ Europa League via league finish
+2022-2023,7,Aston Villa,38,18,7,13,51,46,+5,61,1.61,"41,679",Ollie Watkins - 15,Emiliano Martínez,→ Europa Conference League via league finish
+2022-2023,8,Tottenham,38,18,6,14,70,63,+7,60,1.58,"61,585",Harry Kane - 30,Hugo Lloris,
+2022-2023,9,Brentford,38,15,14,9,58,46,+12,59,1.55,"17,078",Ivan Toney - 20,David Raya,
+2022-2023,10,Fulham,38,15,7,16,55,53,+2,52,1.37,"23,746",Aleksandar Mitrović - 14,Bernd Leno,
+2022-2023,11,Crystal Palace,38,11,12,15,40,49,-9,45,1.18,"24,952",Eberechi Eze - 10,Vicente Guaita,
+2022-2023,12,Chelsea,38,11,11,16,38,47,-9,44,1.16,"40,002",Kai Havertz - 7,Kepa Arrizabalaga,
+2022-2023,13,Wolves,38,11,8,19,31,58,-27,41,1.08,"31,482","Rúben Neves, Daniel Podence - 6",José Sá,
+2022-2023,14,West Ham,38,11,7,20,42,55,-13,40,1.05,"62,462","Saïd Benrahma, Jarrod Bowen - 6",Łukasz Fabiański,
+2022-2023,15,Bournemouth,38,11,6,21,37,71,-34,39,1.03,"10,362",Philip Billing - 7,Neto,
+2022-2023,16,Nott'ham Forest,38,9,11,18,38,68,-30,38,1.00,"29,188",Taiwo Awoniyi - 10,Dean Henderson,
+2022-2023,17,Everton,38,8,12,18,34,57,-23,36,0.95,"39,243",Dwight McNeil - 7,Jordan Pickford,
+2022-2023,18,Leicester City,38,9,7,22,51,68,-17,34,0.89,"31,887",Harvey Barnes - 13,Danny Ward,Relegated
+2022-2023,19,Leeds United,38,7,10,21,48,78,-30,31,0.82,"36,566",Rodrigo - 13,Illan Meslier,Relegated
+2022-2023,20,Southampton,38,6,7,25,36,73,-37,25,0.66,"30,440",James Ward-Prowse - 9,Gavin Bazunu,Relegated
+2021-2022,1,Manchester City,38,29,6,3,99,26,+73,93,2.45,"52,774",Kevin De Bruyne - 15,Ederson,→ Champions League via league finish
+2021-2022,2,Liverpool,38,28,8,2,94,26,+68,92,2.42,"53,352",Mohamed Salah - 23,Alisson,→ Champions League via league finish
+2021-2022,3,Chelsea,38,21,11,6,76,33,+43,74,1.95,"36,443",Mason Mount - 11,Edouard Mendy,→ Champions League via league finish
+2021-2022,4,Tottenham,38,22,5,11,69,40,+29,71,1.87,"56,523",Son Heung-min - 23,Hugo Lloris,→ Champions League via league finish
+2021-2022,5,Arsenal,38,22,3,13,61,48,+13,69,1.82,"59,665",Bukayo Saka - 11,Aaron Ramsdale,→ Europa League via league finish
+2021-2022,6,Manchester Utd,38,16,10,12,57,57,0,58,1.53,"73,150",Cristiano Ronaldo - 18,David de Gea,→ Europa League via league finish
+2021-2022,7,West Ham,38,16,8,14,60,51,+9,56,1.47,"58,370",Jarrod Bowen - 12,Łukasz Fabiański,→ Europa Conference League via league finish
+2021-2022,8,Leicester City,38,14,10,14,62,59,+3,52,1.37,"32,493",Jamie Vardy - 15,Kasper Schmeichel,
+2021-2022,9,Brighton,38,12,15,11,42,44,-2,51,1.34,"30,966","Leandro Trossard, Neal Maupay - 8",Robert Sánchez,
+2021-2022,10,Wolves,38,15,6,17,38,43,-5,51,1.34,"30,841",Raúl Jiménez - 6,José Sá,
+2021-2022,11,Newcastle Utd,38,13,10,15,44,62,-18,49,1.29,"51,487",Callum Wilson - 8,Martin Dúbravka,
+2021-2022,12,Crystal Palace,38,11,15,12,50,46,+4,48,1.26,"24,588",Wilfried Zaha - 14,Vicente Guaita,
+2021-2022,13,Brentford,38,13,7,18,48,56,-8,46,1.21,"16,918",Ivan Toney - 12,David Raya,
+2021-2022,14,Aston Villa,38,13,6,19,52,54,-2,45,1.18,"41,681",Ollie Watkins - 11,Emiliano Martínez,
+2021-2022,15,Southampton,38,9,13,16,43,67,-24,40,1.05,"30,134",James Ward-Prowse - 10,Fraser Forster,
+2021-2022,16,Everton,38,11,6,21,43,66,-23,39,1.03,"38,446",Richarlison - 10,Jordan Pickford,
+2021-2022,17,Leeds United,38,9,11,18,42,79,-37,38,1.00,"36,308",Raphinha - 11,Illan Meslier,
+2021-2022,18,Burnley,38,7,14,17,34,53,-19,35,0.92,"19,278",Maxwel Cornet - 9,Nick Pope,Relegated
+2021-2022,19,Watford,38,6,5,27,34,77,-43,23,0.61,"20,614",Emmanuel Dennis - 10,Ben Foster,Relegated
+2021-2022,20,Norwich City,38,5,7,26,23,84,-61,22,0.58,"26,836",Teemu Pukki - 11,Tim Krul,Relegated
+2018-2019,1,Manchester City,38,32,2,4,95,23,+72,98,2.58,"54,130",Sergio Agüero - 21,Ederson,→ Champions League via league finish
+2018-2019,2,Liverpool,38,30,7,1,89,22,+67,97,2.55,"52,983","Sadio Mané, Mohamed Salah - 22",Alisson,→ Champions League via league finish
+2018-2019,3,Chelsea,38,21,9,8,63,39,+24,72,1.89,"40,437",Eden Hazard - 16,Kepa Arrizabalaga,→ Champions League via league finish
+2018-2019,4,Tottenham,38,23,2,13,67,39,+28,71,1.87,"54,216",Harry Kane - 17,Hugo Lloris,→ Champions League via league finish
+2018-2019,5,Arsenal,38,21,7,10,73,51,+22,70,1.84,"59,899",Pierre-Emerick Aubameyang - 22,Bernd Leno,→ Europa League via league finish
+2018-2019,6,Manchester Utd,38,19,9,10,65,54,+11,66,1.74,"74,498",Paul Pogba - 13,David de Gea,→ Europa League via league finish 1
+2018-2019,7,Wolves,38,16,9,13,47,46,+1,57,1.50,"31,030",Raúl Jiménez - 13,Rui Patrício,→ Europa League via league finish
+2018-2019,8,Everton,38,15,9,14,54,46,+8,54,1.42,"39,043","Gylfi Sigurðsson, Richarlison - 13",Jordan Pickford,
+2018-2019,9,Leicester City,38,15,7,16,51,48,+3,52,1.37,"31,851",Jamie Vardy - 18,Kasper Schmeichel,
+2018-2019,10,West Ham,38,15,7,16,52,55,-3,52,1.37,"58,336",Marko Arnautović - 10,Łukasz Fabiański,
+2018-2019,11,Watford,38,14,8,16,52,59,-7,50,1.32,"20,016",Gerard Deulofeu - 10,Ben Foster,
+2018-2019,12,Crystal Palace,38,14,7,17,51,53,-2,49,1.29,"25,455",Luka Milivojević - 12,Vicente Guaita,
+2018-2019,13,Newcastle Utd,38,12,9,17,42,48,-6,45,1.18,"51,121",Ayoze Pérez - 12,Martin Dúbravka,
+2018-2019,14,Bournemouth,38,13,6,19,56,70,-14,45,1.18,"10,532",Callum Wilson - 14,Asmir Begović,
+2018-2019,15,Burnley,38,11,7,20,45,68,-23,40,1.05,"20,534",Ashley Barnes - 12,"Tom Heaton, Joe Hart",
+2018-2019,16,Southampton,38,9,12,17,45,65,-20,39,1.03,"30,139","Danny Ings, James Ward-Prowse - 7",Alex McCarthy,
+2018-2019,17,Brighton,38,9,9,20,35,60,-25,36,0.95,"30,426",Glenn Murray - 13,Mathew Ryan,
+2018-2019,18,Cardiff City,38,10,4,24,34,69,-35,34,0.89,"31,408","Bobby Reid, Víctor Camarasa - 5",Neil Etheridge,Relegated
+2018-2019,19,Fulham,38,7,5,26,34,81,-47,26,0.68,"24,371",Aleksandar Mitrović - 11,Sergio Rico,Relegated
+2018-2019,20,Huddersfield,38,3,7,28,22,76,-54,16,0.42,"23,203",Karlan Grant - 4,Jonas Lössl,Relegated
+2017-2018,1,Manchester City,38,32,4,2,106,27,+79,100,2.63,"53,812",Sergio Agüero - 21,Ederson,→ Champions League via league finish
+2017-2018,2,Manchester Utd,38,25,6,7,68,28,+40,81,2.13,"74,976",Romelu Lukaku - 16,David de Gea,→ Champions League via league finish
+2017-2018,3,Tottenham,38,23,8,7,74,36,+38,77,2.03,"67,496",Harry Kane - 30,Hugo Lloris,→ Champions League via league finish
+2017-2018,4,Liverpool,38,21,12,5,84,38,+46,75,1.97,"53,049",Mohamed Salah - 32,"Loris Karius, Simon Mignolet",→ Champions League via league finish
+2017-2018,5,Chelsea,38,21,7,10,62,38,+24,70,1.84,"41,282",Eden Hazard - 12,Thibaut Courtois,→ Europa League via cup win 1
+2017-2018,6,Arsenal,38,19,6,13,74,51,+23,63,1.66,"59,323",Alexandre Lacazette - 14,Petr Čech,→ Europa League via league finish
+2017-2018,7,Burnley,38,14,12,12,36,39,-3,54,1.42,"20,688",Chris Wood - 10,Nick Pope,→ Europa League via league finish 2
+2017-2018,8,Everton,38,13,10,15,44,58,-14,49,1.29,"38,797",Wayne Rooney - 10,Jordan Pickford,
+2017-2018,9,Leicester City,38,12,11,15,56,60,-4,47,1.24,"31,583",Jamie Vardy - 20,Kasper Schmeichel,
+2017-2018,10,Newcastle Utd,38,12,8,18,39,47,-8,44,1.16,"51,992",Ayoze Pérez - 8,Rob Elliot,
+2017-2018,11,Crystal Palace,38,11,11,16,45,55,-10,44,1.16,"25,063",Luka Milivojević - 10,Wayne Hennessey,
+2017-2018,12,Bournemouth,38,11,11,16,45,61,-16,44,1.16,"10,641","Joshua King, Callum Wilson - 8",Asmir Begović,
+2017-2018,13,West Ham,38,10,12,16,48,68,-20,42,1.11,"56,885",Marko Arnautović - 11,"Joe Hart, Adrián",
+2017-2018,14,Watford,38,11,8,19,44,64,-20,41,1.08,"20,231",Abdoulaye Doucouré - 7,Heurelho Gomes,
+2017-2018,15,Brighton,38,9,13,16,34,54,-20,40,1.05,"30,403",Glenn Murray - 12,Mathew Ryan,
+2017-2018,16,Huddersfield,38,9,10,19,28,58,-30,37,0.97,"24,040",Steve Mounié - 7,Jonas Lössl,
+2017-2018,17,Southampton,38,7,15,16,37,56,-19,36,0.95,"30,794",Charlie Austin - 7,Fraser Forster,
+2017-2018,18,Swansea City,38,8,9,21,28,56,-28,33,0.87,"20,623",Jordan Ayew - 7,Łukasz Fabiański,Relegated
+2017-2018,19,Stoke City,38,7,12,19,35,68,-33,33,0.87,"29,280",Xherdan Shaqiri - 8,Jack Butland,Relegated
+2017-2018,20,West Brom,38,6,13,19,31,56,-25,31,0.82,"24,520","Jay Rodriguez, Salomón Rondón - 7",Ben Foster,Relegated
+2016-2017,1,Chelsea,38,30,3,5,85,33,+52,93,2.45,"41,508",Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish
+2016-2017,2,Tottenham,38,26,8,4,86,26,+60,86,2.26,"31,639",Harry Kane - 29,Hugo Lloris,→ Champions League via league finish
+2016-2017,3,Manchester City,38,23,9,6,80,39,+41,78,2.05,"54,019",Sergio Agüero - 20,Claudio Bravo,→ Champions League via league finish
+2016-2017,4,Liverpool,38,22,10,6,78,42,+36,76,2.00,"53,016","Philippe Coutinho, Sadio Mané - 13",Simon Mignolet,→ Champions League via league finish
+2016-2017,5,Arsenal,38,23,6,9,77,44,+33,75,1.97,"59,957",Alexis Sánchez - 24,Petr Čech,→ Europa League via cup win 1
+2016-2017,6,Manchester Utd,38,18,15,5,54,29,+25,69,1.82,"75,290",Zlatan Ibrahimović - 17,David de Gea,→ Champions League via Europa League win
+2016-2017,7,Everton,38,17,10,11,62,44,+18,61,1.61,"39,310",Romelu Lukaku - 25,Joel Robles,→ Europa League via league finish
+2016-2017,8,Southampton,38,12,10,16,41,48,-7,46,1.21,"30,936",Nathan Redmond - 7,Fraser Forster,
+2016-2017,9,Bournemouth,38,12,10,16,55,67,-12,46,1.21,"11,182",Joshua King - 16,Artur Boruc,
+2016-2017,10,West Brom,38,12,9,17,43,51,-8,45,1.18,"23,876",Salomón Rondón - 8,Ben Foster,
+2016-2017,11,West Ham,38,12,9,17,47,64,-17,45,1.18,"56,972",Michail Antonio - 9,Darren Randolph,
+2016-2017,12,Leicester City,38,12,8,18,48,63,-15,44,1.16,"31,893",Jamie Vardy - 13,Kasper Schmeichel,
+2016-2017,13,Stoke City,38,11,11,16,41,56,-15,44,1.16,"27,433",Peter Crouch - 7,Lee Grant,
+2016-2017,14,Crystal Palace,38,12,5,21,50,63,-13,41,1.08,"25,161",Christian Benteke - 15,Wayne Hennessey,
+2016-2017,15,Swansea City,38,12,5,21,45,70,-25,41,1.08,"20,619",Fernando Llorente - 15,Łukasz Fabiański,
+2016-2017,16,Burnley,38,11,7,20,39,55,-16,40,1.05,"20,558",Sam Vokes - 10,Tom Heaton,
+2016-2017,17,Watford,38,11,7,20,40,68,-28,40,1.05,"20,571",Troy Deeney - 10,Heurelho Gomes,
+2016-2017,18,Hull City,38,9,7,22,37,80,-43,34,0.89,"20,761",Robert Snodgrass - 7,Eldin Jakupović,Relegated
+2016-2017,19,Middlesbrough,38,5,13,20,27,53,-26,28,0.74,"30,449",Álvaro Negredo - 9,Víctor Valdés,Relegated
+2016-2017,20,Sunderland,38,6,6,26,29,69,-40,24,0.63,"41,287",Jermain Defoe - 15,Jordan Pickford,Relegated
+2015-2016,1,Leicester City,38,23,12,3,68,36,+32,81,2.13,"32,021",Jamie Vardy - 24,Kasper Schmeichel,→ Champions League via league finish
+2015-2016,2,Arsenal,38,20,11,7,65,36,+29,71,1.87,"59,944",Olivier Giroud - 16,Petr Čech,→ Champions League via league finish
+2015-2016,3,Tottenham,38,19,13,6,69,35,+34,70,1.84,"35,776",Harry Kane - 25,Hugo Lloris,→ Champions League via league finish
+2015-2016,4,Manchester City,38,19,9,10,71,41,+30,66,1.74,"54,041",Sergio Agüero - 24,Joe Hart,→ Champions League via league finish
+2015-2016,5,Manchester Utd,38,19,9,10,49,35,+14,66,1.74,"75,279",Anthony Martial - 11,David de Gea,→ Europa League via cup win 1
+2015-2016,6,Southampton,38,18,9,11,59,41,+18,63,1.66,"30,751","Sadio Mané, Graziano Pellè - 11",Fraser Forster,→ Europa League via league finish 2
+2015-2016,7,West Ham,38,16,14,8,65,51,+14,62,1.63,"34,910","Dimitri Payet, Andy Carroll - 9",Adrián,→ Europa League via league finish 3
+2015-2016,8,Liverpool,38,16,12,10,63,50,+13,60,1.58,"43,910",Roberto Firmino - 10,Simon Mignolet,
+2015-2016,9,Stoke City,38,14,9,15,41,55,-14,51,1.34,"27,534",Marko Arnautović - 11,Jack Butland,
+2015-2016,10,Chelsea,38,12,14,12,59,53,+6,50,1.32,"41,500",Diego Costa - 12,Thibaut Courtois,
+2015-2016,11,Everton,38,11,14,13,59,55,+4,47,1.24,"38,124",Romelu Lukaku - 18,Tim Howard,
+2015-2016,12,Swansea City,38,12,11,15,42,52,-10,47,1.24,"20,711",André Ayew - 12,Łukasz Fabiański,
+2015-2016,13,Watford,38,12,9,17,40,50,-10,45,1.18,"20,594",Odion Ighalo - 15,Heurelho Gomes,
+2015-2016,14,West Brom,38,10,13,15,34,48,-14,43,1.13,"24,631",Salomón Rondón - 9,Boaz Myhill,
+2015-2016,15,Crystal Palace,38,11,9,18,39,51,-12,42,1.11,"24,825","Scott Dann, Yohan Cabaye... - 5",Wayne Hennessey,
+2015-2016,16,Bournemouth,38,11,9,18,45,67,-22,42,1.11,"11,189",Joshua King - 6,Artur Boruc,
+2015-2016,17,Sunderland,38,9,12,17,48,62,-14,39,1.03,"43,071",Jermain Defoe - 15,Vito Mannone,
+2015-2016,18,Newcastle Utd,38,9,10,19,44,65,-21,37,0.97,"49,754",Georginio Wijnaldum - 11,Rob Elliot,Relegated
+2015-2016,19,Norwich City,38,9,7,22,39,67,-28,34,0.89,"26,972",Dieumerci Mbokani - 7,John Ruddy,Relegated
+2015-2016,20,Aston Villa,38,3,8,27,27,76,-49,17,0.45,"33,690",Jordan Ayew - 7,Brad Guzan,Relegated
+2014-2015,1,Chelsea,38,26,9,3,73,32,+41,87,2.29,"41,546",Diego Costa - 20,Thibaut Courtois,→ Champions League via league finish
+2014-2015,2,Manchester City,38,24,7,7,83,38,+45,79,2.08,"45,365",Sergio Agüero - 26,Joe Hart,→ Champions League via league finish
+2014-2015,3,Arsenal,38,22,9,7,71,36,+35,75,1.97,"59,992",Alexis Sánchez - 16,David Ospina,→ Champions League via league finish
+2014-2015,4,Manchester Utd,38,20,10,8,62,37,+25,70,1.84,"75,335",Wayne Rooney - 12,David de Gea,→ Champions League via league finish
+2014-2015,5,Tottenham,38,19,7,12,58,53,+5,64,1.68,"35,728",Harry Kane - 21,Hugo Lloris,→ Europa League via league finish
+2014-2015,6,Liverpool,38,18,8,12,52,48,+4,62,1.63,"44,659",Steven Gerrard - 9,Simon Mignolet,→ Europa League via league finish 1
+2014-2015,7,Southampton,38,18,6,14,54,33,+21,60,1.58,"30,652",Graziano Pellè - 12,Fraser Forster,→ Europa League via league finish 2
+2014-2015,8,Swansea City,38,16,8,14,46,49,-3,56,1.47,"20,555",Wilfried Bony - 9,Łukasz Fabiański,
+2014-2015,9,Stoke City,38,15,9,14,48,45,+3,54,1.42,"26,747",Mame Biram Diouf - 11,Asmir Begović,
+2014-2015,10,Crystal Palace,38,13,9,16,47,51,-4,48,1.26,"24,421",Glenn Murray - 7,Julián Speroni,
+2014-2015,11,Everton,38,12,11,15,48,50,-2,47,1.24,"38,405",Romelu Lukaku - 10,Tim Howard,
+2014-2015,12,West Ham,38,12,11,15,44,47,-3,47,1.24,"34,871",Diafra Sakho - 10,Adrián,→ Europa League 3
+2014-2015,13,West Brom,38,11,11,16,38,51,-13,44,1.16,"25,064",Saido Berahino - 14,Ben Foster,
+2014-2015,14,Leicester City,38,11,8,19,46,55,-9,41,1.08,"31,693",Leonardo Ulloa - 11,Kasper Schmeichel,
+2014-2015,15,Newcastle Utd,38,10,9,19,40,63,-23,39,1.03,"50,359",Papiss Cissé - 11,Tim Krul,
+2014-2015,16,Sunderland,38,7,17,14,31,53,-22,38,1.00,"43,157","Steven Fletcher, Connor Wickham - 5",Costel Pantilimon,
+2014-2015,17,Aston Villa,38,10,8,20,31,57,-26,38,1.00,"34,133",Christian Benteke - 13,Brad Guzan,
+2014-2015,18,Hull City,38,8,11,19,33,51,-18,35,0.92,"23,557",Nikica Jelavić - 8,Allan McGregor,Relegated
+2014-2015,19,Burnley,38,7,12,19,28,53,-25,33,0.87,"19,131",Danny Ings - 11,Tom Heaton,Relegated
+2014-2015,20,QPR,38,8,6,24,42,73,-31,30,0.79,"17,809",Charlie Austin - 18,Robert Green,Relegated
